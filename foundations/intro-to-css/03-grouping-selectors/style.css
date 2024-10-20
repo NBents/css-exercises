@@ -1,0 +1,16 @@
+/* styles.css */
+
+.click-me {
+    background-color: black;
+    color: #f0f2f1;
+}
+
+.anti-click-me {
+    background-color: rgb(228, 239, 52);
+}
+
+.click-me,
+.anti-click-me {
+    font-size: 28px;
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+}
